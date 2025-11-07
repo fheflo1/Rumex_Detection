@@ -1,2 +1,3 @@
-# Rumex_Detection
-Image analysis and machine learning. Rumex detection from drone images.
+# Rumex Detection from Drone Images
+A project in Data-Driven Image Analysis, aiming to detect Rumex (dock) in grassland drone imagery.
+
