@@ -208,3 +208,13 @@ __marimo__/
 
 # Data
 data/
+labeled-data/
+labeled_data/
+
+# runs
+runs/
+
+# Weights
+yolo11s.pt
+yolo11n.pt
+yolo11m.pt
